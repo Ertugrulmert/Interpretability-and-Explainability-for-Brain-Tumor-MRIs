@@ -1,3 +1,5 @@
+The following description is provided by the couse coordinatiors for students developing the project. Please refer to the project report "Project_Report_Explainability" provided in the respository for further information about methodology and experiment results.
+
 # Interpretability Project
 ## Setup
 To use this template you can generate a Conda environment using `environment.yml` by running
